@@ -138,7 +138,7 @@ The following endpoints are provided by the Express server.
 
 The Express application is deployed using Render.
 
-**Public Deployment URL:** https://adepumeghana.onrender.com/
+**Public Deployment URL:** https://koushikbdflab1.onrender.com
 
 The deployed application can be opened in a web browser. The individual endpoints should also be tested using the public URL.
 

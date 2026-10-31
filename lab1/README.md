@@ -1,6 +1,6 @@
 # BDF Lab 1 – Node.js and Express Server
 
-**Deployment URL:** https://adepumeghana.onrender.com/
+**Deployment URL:** https://koushikbdflab1.onrender.com
 
 ## Student Details
 
@@ -74,13 +74,13 @@ The `package-lock.json` file records the exact dependency versions used for inst
 1. Clone the GitHub repository:
 
    ```bash
-   git clone https://github.com/adepumeghana7116-eng/AdepuMeghana.git
+   git clone https://github.com/basireddydurgakoushikreddy-coder/koushikBDFLAB1.git
    ```
 
 2. Navigate to the Lab 1 folder:
 
    ```bash
-   cd AdepuMeghana/lab-01
+   cd koushik Reddy/lab1
    ```
 
 3. Install the required dependencies:
